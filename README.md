@@ -1,10 +1,10 @@
-#  # Intranet_Bugbee#
+#  Intranet_Bugbee
 
  Desenvolvimento de Intranet para teste de usabilidade(Em desenvolvimento)
 
 <hr>
 
-## Ferramentas utilizadas##
+## Ferramentas utilizadas
 
 <hr>
 
